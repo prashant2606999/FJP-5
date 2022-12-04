@@ -1,8 +1,8 @@
 {
-    // // staritng JS-> JavaScript
-    // // var let const
+    // staritng JS-> JavaScript
+    // var let const
   
-    // // varibale declaration
+    // varibale declaration
     // var a; //int string float ?
   
     // // variable initalization
