@@ -78,7 +78,7 @@
 // D: 3 
 
 // // < --------------Question 6----------------->
-// // for this ques read this https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
+// for this ques read this https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
 
 // const add = function (x) {
 //     return x + x;
@@ -194,7 +194,7 @@
 // D: 1
 
 // // < --------------Question 13----------------->
-// // read:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
+// read:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining
 
 // What is the output ?
 // const person = {
