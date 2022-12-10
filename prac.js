@@ -1,3 +1,2 @@
-console.log(a);
-
-var a = 1 ;
+git add .
+git commit -m ":sparkles: "
