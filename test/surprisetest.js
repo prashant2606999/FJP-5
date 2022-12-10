@@ -318,7 +318,7 @@
 // D: SyntaxError
 
 // // < --------------Question 20----------------->
-// // read: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
+// read: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries
 
 // What is the output ?
 // const person = {
