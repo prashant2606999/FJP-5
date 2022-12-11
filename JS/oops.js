@@ -73,4 +73,4 @@ class Bird {
   myPenguin.printPlaceOfOrigin();
   myPenguin.printHabit();
   
-  
+   
